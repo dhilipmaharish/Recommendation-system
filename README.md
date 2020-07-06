@@ -47,3 +47,5 @@ Here some of the input paramter weights are given:
 ![ama 1](https://user-images.githubusercontent.com/37034930/86567473-4672aa80-bf20-11ea-8179-09a00f55e843.PNG)
 
 Here the Query image given product of apperal:
+
+![ama 2](https://user-images.githubusercontent.com/37034930/86568907-77ec7580-bf22-11ea-85a7-6e6e3b73ef5a.PNG)
