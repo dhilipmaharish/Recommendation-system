@@ -8,11 +8,17 @@ Recommending the similar product (apparel) to the given product(apparel) by the 
 Each product/item has 19 features in the raw dataset out of these 19 features, we will be using only 6 features
 
 1. ASIN ( Amazon standard identification number)
+
 2.brand ( brand to which the product belongs to )
+
 3,color ( Color information of apparel, it can contain many colors as a value ex: red and black stripes )
+
 4.product_type_name (type of the apparel, ex: SHIRT/T SHIRT )
+
 5.medium_image_URL ( URL of the image )
+
 6.title (title of the product.)
+
 7.formatted_price (price of the product)
 
 Work process:
