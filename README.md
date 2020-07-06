@@ -40,7 +40,7 @@ In this step using Transfer learning (means using already processed algorithm on
 Step 6: combining both Text/Tile features and image features
 For flexibility in the system I combined both the features and provided weights for each features based on more weight the product is recommend with heavy weight features.
 
-The Final Project output is displayed here:
+The Final output of the project is displayed here:
 
 Here some of the input paramter weights are given:
 
