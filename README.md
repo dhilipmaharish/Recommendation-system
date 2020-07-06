@@ -16,6 +16,7 @@ Each product/item has 19 features in the raw dataset out of these 19 features, w
 7.formatted_price (price of the product)
 
 Work process:
+
 Step 1: The product image id and the product id is collected using the web scraping on the amazon api web-page
 
 Step 2: Data cleaning
