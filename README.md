@@ -2,6 +2,7 @@
 Amazon Apparel Recomdation system
 
 Objective of the Project:
+
 Recommending the similar product (apparel) to the given product(apparel) by the user in the E-commerce websites.The process of algorithm is based on two features. They are
 1.Title/Text Based recommendation system
 2.Image based recommendation system
