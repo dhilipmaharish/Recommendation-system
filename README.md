@@ -49,3 +49,8 @@ Here some of the input paramter weights are given:
 Here the Query image given product of apperal:
 
 ![ama 2](https://user-images.githubusercontent.com/37034930/86568907-77ec7580-bf22-11ea-85a7-6e6e3b73ef5a.PNG)
+
+The below some of the top five recommended items of given apperal products based on the weightage given to paramters:
+
+
+
