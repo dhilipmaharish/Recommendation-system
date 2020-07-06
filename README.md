@@ -53,4 +53,10 @@ Here the Query image given product of apperal:
 The below some of the top five recommended items of given apperal products based on the weightage given to paramters:
 
 
+![3](https://user-images.githubusercontent.com/37034930/86570301-8e93cc00-bf24-11ea-97b7-9e405ef1d74c.PNG)
 
+![5](https://user-images.githubusercontent.com/37034930/86570305-90f62600-bf24-11ea-87ba-5216b6e50128.PNG)
+
+![6](https://user-images.githubusercontent.com/37034930/86570306-918ebc80-bf24-11ea-9efd-e15c5944b119.PNG)
+
+![ama 4](https://user-images.githubusercontent.com/37034930/86570312-92bfe980-bf24-11ea-8133-c28fd4acfba1.PNG)
