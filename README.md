@@ -1,4 +1,4 @@
-# Recommendation-system
+# Amazon Apparel Recommendation System
 Amazon Apparel Recomdation system
 
 Objective of the Project:
